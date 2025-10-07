@@ -1,0 +1,2 @@
+pip install -r code/requirements.txt
+streamlit run code/cld.py
